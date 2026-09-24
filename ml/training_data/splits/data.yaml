@@ -1,0 +1,5 @@
+train: D:\ClassSight Ai\classsight-ai\ml\training_data\splits\train.txt
+val: D:\ClassSight Ai\classsight-ai\ml\training_data\splits\val.txt
+names:
+  0: seat
+  1: instructor

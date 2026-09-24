@@ -1,0 +1,7 @@
+# Auto-generated. Fed by the app's 'Export Training Data' action (Phase 1 -> Phase 3 bridge).
+path: .
+train: images
+val: images
+names:
+  0: seat
+  1: instructor
